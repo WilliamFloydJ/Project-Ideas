@@ -1,0 +1,28 @@
+<1> Inventory Management System <1>
+* The System I use at work is very out dated and we end up loosing product because of easy human error*
+* A system based on QR Codes so human error is eliminated completely while making everything else easier*
+* Also allowing for mobile support, with anywhere support. *
+
+<2> Clothing Store <2>
+* A store where People can sell their own designs and while the website would take a slice of the revenue the site would promote others designs*
+* Contributing to personal sales and ambitions. With a local shirt designer and support with document image files*
+
+<3> A Hosting Site <3>
+* Where as other hosting sites already exist the idea is to rent a certain amount of pages to up incoming businesses*
+* This would simplify the process of finding a domain + Hosting site. By merging it to one website with sub-domains.*
+* Then allowing the customer a easy to manipulate html page, the idea being to allow access to less experienced up incomers.*
+* A temporary and cheap option to paying expensive website engineers.*
+
+<4> A Sports Management System <4>
+* Everything needed to score, watch and promote sports events and systems. *
+* Keeping score of Games with live broadcasts across everyone watching the game, no longer needing expensive equipment.
+* Allowing you to store personal highlights as well as track progress through your games and training. *
+* Connected to the highest social media platforms as a player or coach, being able to instantly promote and or live stream local games and events. *
+* Coaches have the ability to message players easily. While players can also message between themselves for optimal team performance*
+
+<5> History site of Everything <5>
+* Similar to wiki page demonstrating info on certain subjects, this would be a sequential series of pages. *
+* It would have a web chart , demonstrating branching parts of History. People can add events and stories to the pages. *
+* It would all connect visually allowing for a more easily understandable events that took place in our past. *
+* Some parts of history are debated, either between lack of evidence or for religious purposes. No matter the contention, certain links will be able to be hidden or ignored.*
+
